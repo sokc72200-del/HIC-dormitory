@@ -68,6 +68,24 @@ const locationUrl = 'https://www.google.com/maps/place/Transformed+Life+Church/@
           </li>
         </ul>
       </div>
+      <div class="map-card" id="location">
+        <div class="map-card__heading">
+          <h2>{{ t('contact.mapTitle') }}</h2>
+          <a
+            class="text-link"
+            :href="locationUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+          >{{ t('contact.openMap') }} ↗</a>
+        </div>
+        <iframe
+          class="map-card__frame"
+          src="https://www.google.com/maps?q=11.593741,104.839972&z=16&output=embed"
+          :title="t('contact.mapTitle')"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
     </div>
   </section>
 </template>

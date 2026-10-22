@@ -18,3 +18,6 @@ export const facilities = [
 ]
 export const rules = ['conduct', 'quiet', 'visitors', 'kitchen', 'spiritual']
 export const applySteps = ['s1', 's2', 's3', 's4']
+export const newsEvents = []
+export const roomAvailability = []
+export const tourVideoUrl = ''

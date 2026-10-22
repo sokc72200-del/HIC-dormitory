@@ -5,10 +5,14 @@
   "nav": {
     "about": "About",
     "gallery": "Gallery",
+    "news": "News",
     "schedule": "Our week",
     "living": "Living here",
+    "availability": "Rooms",
     "faq": "FAQ",
     "apply": "How to apply",
+    "tour": "Tour",
+    "location": "Location",
     "contact": "Contact"
   },
   "backToTop": "Back to top",
@@ -175,6 +179,29 @@
     "contactQuestion": "How can I ask a question?",
     "contactAnswer": "Use the inquiry form to prepare an email draft. It stays on your device until you choose a recipient and send it from your email app."
   },
+  "news": {
+    "eyebrow": "What's happening",
+    "title": "News & events",
+    "intro": "Announcements and upcoming events from our dorm community.",
+    "empty": "There are no announcements right now. Please check back soon."
+  },
+  "availability": {
+    "eyebrow": "Find your space",
+    "title": "Room availability",
+    "intro": "Current openings are listed here. Please contact us to confirm availability before applying.",
+    "empty": "Room availability updates will be posted here. Contact us to ask about current openings.",
+    "roomsLeft": "{count} rooms available"
+  },
+  "tour": {
+    "eyebrow": "Take a look around",
+    "title": "Dorm tour",
+    "intro": "Get a closer look at the spaces and facilities in our dorm.",
+    "empty": "A video tour is coming soon. In the meantime, explore our photo gallery.",
+    "galleryLink": "View the photo gallery"
+  },
+  "chat": {
+    "label": "Chat with us on Telegram"
+  },
   "contact": {
     "eyebrow": "We’re here to help",
     "title": "Contact us",
@@ -183,6 +210,8 @@
     "phoneLabel": "Phone",
     "emailLabel": "Email",
     "telegramLabel": "Telegram",
-    "locationLabel": "Location"
+    "locationLabel": "Location",
+    "mapTitle": "Find us",
+    "openMap": "Open in Google Maps"
   }
 }
