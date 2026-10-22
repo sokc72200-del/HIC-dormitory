@@ -1,0 +1,188 @@
+{
+  "brand": "HIC Transformed Life",
+  "skipToContent": "Skip to content",
+  "navigation": "Main navigation",
+  "nav": {
+    "about": "About",
+    "gallery": "Gallery",
+    "schedule": "Our week",
+    "living": "Living here",
+    "faq": "FAQ",
+    "apply": "How to apply",
+    "contact": "Contact"
+  },
+  "backToTop": "Back to top",
+  "hero": {
+    "eyebrow": "HIC Transformed Life Church",
+    "title": "A home for students, rooted in Christ.",
+    "text": "A welcoming place for students to live, study, and grow together in faith and friendship.",
+    "apply": "Explore how to apply",
+    "discover": "Discover dorm life",
+    "artCaption": "A place to belong"
+  },
+  "about": {
+    "eyebrow": "About our community",
+    "title": "About Us",
+    "text": "HIC Transformed Life is a Christ-centered church dormitory dedicated to nurturing faith, character, and community. We provide a home where young adults grow spiritually, live intentionally, and are equipped to impact the world.",
+    "imageAlt": "Students sharing time together in the dorm community",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide a safe, supportive, and spiritually grounded home that encourages holistic growth and a life transformed by Christ.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be a vibrant community where every resident grows in faith, builds lasting relationships, and lives out their God-given purpose.",
+    "valuesEyebrow": "Our community",
+    "valuesTitle": "What makes us different",
+    "values": {
+      "christCenteredTitle": "Christ-Centered Community",
+      "christCenteredText": "We're rooted in faith and focused on helping every resident grow closer to Christ and one another.",
+      "holisticGrowthTitle": "Holistic Growth",
+      "holisticGrowthText": "We support spiritual, academic, emotional, and leadership development in a balanced environment.",
+      "safeHomeTitle": "Safe & Supportive Home",
+      "safeHomeText": "A secure, clean, and welcoming place to call home with structure, care, and genuine community.",
+      "purposeTitle": "Purpose & Impact",
+      "purposeText": "We encourage you to discover your purpose and be a light in the church and in the world."
+    },
+    "galleryLink": "See moments from dorm life"
+  },
+  "gallery": {
+    "eyebrow": "A look inside",
+    "title": "Life at the dorm",
+    "text": "A few moments from our dorm, community, and shared activities.",
+    "imageAlt": "HIC Transformed Life dorm photo {number}",
+    "photoLabel": "Dorm photo {number}",
+    "openImage": "Open dorm photo {number}",
+    "viewerTitle": "Photo {number}",
+    "close": "Close photo viewer",
+    "previous": "Previous photo",
+    "next": "Next photo"
+  },
+  "schedule": {
+    "title": "Our week together",
+    "daily": "Every day",
+    "kitchen": "Clean the kitchen",
+    "tuesday": "Tuesday, 9:00 PM",
+    "bible": "Bible study",
+    "saturday": "Saturday",
+    "church": "Clean the church",
+    "sunday": "Sunday, 9:00 AM",
+    "service": "Sunday service"
+  },
+  "apply": {
+    "eyebrow": "Start a conversation",
+    "title": "How to apply",
+    "intro": "Share a few details to prepare an inquiry, then follow the steps below.",
+    "s1": "Prepare your name and school details.",
+    "s2": "Bring your student ID and a recommendation letter.",
+    "s3": "Have a short chat with the dorm leader.",
+    "s4": "Move in and meet your dorm family.",
+    "formTitle": "Prepare an inquiry",
+    "formNote": "This form does not send or store your details. It opens an email draft on your device so you can choose the recipient and send it yourself.",
+    "nameLabel": "Your name",
+    "schoolLabel": "School",
+    "contactLabel": "Your email or other contact",
+    "messageLabel": "Message (optional)",
+    "submit": "Prepare email draft",
+    "emailSubject": "Student dorm inquiry",
+    "noMessage": "No additional message"
+  },
+  "living": {
+    "title": "Living here",
+    "eyebrow": "Comfortable spaces, essential amenities",
+    "facilities": "Facilities",
+    "facilitiesIntro": "Everything you need to live, study, and grow.",
+    "rules": "House rules",
+    "rulesEyebrow": "Our community",
+    "rulesIntro": "We live together, grow together, and honor God in how we treat each other and our shared home.",
+    "ruleTitles": {
+      "conduct": "General Conduct",
+      "quiet": "Quiet Hours",
+      "visitors": "Visitors",
+      "kitchen": "Kitchen & Common Areas",
+      "spiritual": "Spiritual Life"
+    },
+    "ruleDetails": {
+      "conduct": [
+        "Treat every resident, staff member, and guest with respect and kindness.",
+        "Use respectful language; no bullying, harassment, gossip, or discrimination.",
+        "Take responsibility for your words and actions.",
+        "Keep shared spaces clean and leave them better than you found them.",
+        "Communicate openly and humbly when conflict arises.",
+        "Be home by 9:30 PM."
+      ],
+      "quiet": [
+        "Quiet hours are from 10:00 PM to 7:00 AM every day.",
+        "Quiet hours start at 10:00 PM.",
+        "Please keep noise to a minimum and respect others' rest.",
+        "Headphones are encouraged for music, calls, or media during quiet hours.",
+        "Be considerate in hallways, rooms, and common areas."
+      ],
+      "visitors": [
+        "All visitors must sign in at the front desk and be accompanied by a resident.",
+        "Overnight guests are not permitted.",
+        "Visitors are welcome during daytime hours, but must respect community guidelines.",
+        "Visitors meet in the common area.",
+        "Please be mindful of others' privacy and personal space."
+      ],
+      "kitchen": [
+        "Clean up after yourself—dishes, food, and spills.",
+        "Label and store your food; do not use items that are not yours.",
+        "Share cleaning duty each week.",
+        "Use shared appliances and supplies respectfully and return them clean.",
+        "Report any maintenance issues to staff promptly.",
+        "Keep the space tidy for everyone's well-being."
+      ],
+      "spiritual": [
+        "We are a community rooted in faith, grace, and transformation.",
+        "Attend Chapel and community gatherings as an important part of dorm life.",
+        "Respect different backgrounds, beliefs, and stages of faith.",
+        "Encourage and build one another up in love.",
+        "Pursue personal growth and time with God."
+      ]
+    },
+    "goalTitle": "Our Goal",
+    "goalText": "These house rules exist to create a safe, respectful, and life-giving environment where we can grow in character, community, and faith.",
+    "goalThanks": "Thank you for being part of the HIC Transformed Life community.",
+    "wifi": "Wi-Fi",
+    "study": "Study room",
+    "kitchen": "Kitchen",
+    "prayer": "Prayer room",
+    "laundry": "Laundry",
+    "lounge": "Common lounge",
+    "facilityDetails": {
+      "study": "Quiet, well-lit study spaces with desks, power outlets, and high-speed internet to help you focus and succeed.",
+      "kitchen": "A shared kitchen with the essentials to cook, eat well, and feel at home.",
+      "prayer": "A peaceful, private space for reflection, prayer, and spiritual well-being.",
+      "laundry": "Convenient laundry facilities to make everyday living easier.",
+      "wifi": "Stay connected throughout the dorm for study, streaming, and more.",
+      "lounge": "A comfortable shared space to relax, connect, and spend time together."
+    },
+    "curfew": "Be home by 9:30 PM.",
+    "quiet": "Quiet hours start at 10:00 PM.",
+    "cleaning": "Share cleaning duty each week.",
+    "visitors": "Visitors meet in the common area."
+  },
+  "faq": {
+    "eyebrow": "Good to know",
+    "title": "Frequently asked questions",
+    "intro": "Here are a few helpful details about dorm life and getting started.",
+    "whoQuestion": "Who is the dorm for?",
+    "whoAnswer": "The dorm welcomes students who want a place to live, study, and grow together with the HIC Transformed Life Church community.",
+    "facilitiesQuestion": "What facilities are listed?",
+    "facilitiesAnswer": "Facilities include a study room, shared kitchen, prayer room, laundry, Wi-Fi, and a common lounge.",
+    "scheduleQuestion": "What activities happen during the week?",
+    "scheduleAnswer": "The current schedule includes daily kitchen cleaning, Tuesday Bible study at 9:00 PM, Saturday church cleaning, and Sunday service at 9:00 AM.",
+    "prepareQuestion": "What should I prepare to apply?",
+    "prepareAnswer": "The application information asks students to bring a student ID and a recommendation letter. You can use the inquiry form to prepare a message with your name and school.",
+    "contactQuestion": "How can I ask a question?",
+    "contactAnswer": "Use the inquiry form to prepare an email draft. It stays on your device until you choose a recipient and send it from your email app."
+  },
+  "contact": {
+    "eyebrow": "We’re here to help",
+    "title": "Contact us",
+    "text": "Have a question about dorm life or the application process?",
+    "inquiryLink": "Prepare an inquiry",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "telegramLabel": "Telegram",
+    "locationLabel": "Location"
+  }
+}
